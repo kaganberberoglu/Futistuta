@@ -1,0 +1,1 @@
+This is a study using Transfermarkt data. The data containing the market values ​​and performance values ​​of the football players were used and combined into a single dataset. In addition, the data containing the performance data of the clubs were also collected in another pool.
